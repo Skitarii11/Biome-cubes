@@ -1,7 +1,7 @@
 # Rubik's cube with 3D biomes
 
 Rubik's Biome is a webapp that allows you to manipulate rubik's cube with mini 3D biomes.
-![Rubik's Biome](./Screenshot_2023-12-26_151714.png)
+![Rubik's Biome](./Screenshot.png)
 
 ## Installation
 
